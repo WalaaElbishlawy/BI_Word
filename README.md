@@ -1,7 +1,7 @@
 # BI_Word
 Extend the project of the HW#!  To have the following two features:
 
- # 1-  BI_word index    [3 Marks]
+ # 1-  BI_word index   
  
  You should enter each word alone and  with an underscore with the next word
  For example
